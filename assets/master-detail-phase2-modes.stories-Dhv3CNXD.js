@@ -1,4 +1,4 @@
-import{j as n}from"./index-CTAXdLKx.js";import{r as u}from"./index-D5jfS-9e.js";import{u as p,G as f}from"./useGridTheme-Bsck2O66.js";import"./client-Spw3EFno.js";import{u as C}from"./useDetailGrid-BD3ekyOm.js";const q={title:"Grid/Master-Detail/Phase 2 - Data Binding Modes",parameters:{docs:{description:{component:`
+import{j as n}from"./index-CTAXdLKx.js";import{r as u}from"./index-D5jfS-9e.js";import{u as p,G as f}from"./useGridTheme-INJruURF.js";import"./client-Spw3EFno.js";import{u as C}from"./useDetailGrid-BuMHw_2T.js";const q={title:"Grid/Master-Detail/Phase 2 - Data Binding Modes",parameters:{docs:{description:{component:`
 # Phase 2: Master-Detail Grid with Three Data Binding Modes
 
 Comprehensive examples demonstrating all supported data binding modes for master-detail grids:
